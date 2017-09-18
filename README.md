@@ -1,3 +1,5 @@
+> *** This is a private image. Use it at your own risk! ***
+
 # Docker Ionic Android (`FROM beevelop/ionic:v3.7.0`)
 ----
 ### Pull from Docker Hub
@@ -19,3 +21,4 @@ docker run -it brunobastosg/docker-ionic-android bash
 ```Dockerfile
 FROM brunobastosg/docker-ionic-android:latest
 ```
+
