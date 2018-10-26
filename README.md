@@ -1,6 +1,6 @@
 > *** This is a private image. Use it at your own risk! ***
 
-# Docker Ionic Android (`FROM beevelop/ionic:v3.7.0`)
+# Docker Ionic Android (`FROM beevelop/ionic:v4.1.2`)
 ----
 ### Pull from Docker Hub
 ```
