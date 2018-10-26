@@ -1,4 +1,4 @@
-FROM beevelop/ionic:v3.7.0
+FROM beevelop/ionic:v4.1.2
 
 LABEL maintainer="contato@brunobastosg.io"
 
